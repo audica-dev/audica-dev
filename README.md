@@ -24,4 +24,4 @@ Audica reads the shape. It turns the distributions your model already produces i
 
 MMM tell you what happened, on average. Audica tells you what it means, and for whom.
 
-Open source, Apache 2.0. Research presented in the Third Workshop on Social Influence in Conversations (2025. Built by Javier Marín.
+Open source, Apache 2.0. Research presented in the Third Workshop on Social Influence in Conversations (ACL-Sicon 2025). Built by Javier Marín.
