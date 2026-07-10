@@ -10,7 +10,7 @@
 A marketing mix model MMM gives you one number per channel and a way to split the budget. That number is a mean, the center of a distribution, and statistics is clear about one thing: a mean without its spread is only half the answer.
 
 <div align="center">
-<img src="assets/audica-sand.png" alt="The model draws the curve. Audica reads the sand." width="640">
+<img src="assets/audica-sand.png" alt="The model draws the curve. Audica reads the sand." width="450">
 
 <em>The model draws the curve. Audica reads the sand.</em>
 
