@@ -33,7 +33,7 @@ A clean waterfall. A contribution for every channel and a return beside it. Eigh
 Audica takes the same spend and the same results and asks two questions the table cannot answer. Does the channel grow when you feed it, and does its audience talk to each other.
 
 <div align="center">
-<img src="assets/audica-audience.png" alt="Five channels placed by whether they scale and how connected their audience is" width="450">
+<img src="assets/audica-audience.png" alt="Five channels placed by whether they scale and how connected their audience is" width="550">
 </div>
 
 Two questions, two axes. Placed that way, the five channels stop being a list and become characters.
@@ -47,7 +47,7 @@ Two questions, two axes. Placed that way, the five channels stop being a list an
 Then Audica reads the part every standard tool leaves out. The channels are not islands. Feed one, and another moves.
 
 <div align="center">
-<img src="assets/audica-interaction.png" alt="When you feed one channel, who moves" width="450">
+<img src="assets/audica-interaction.png" alt="When you feed one channel, who moves" width="550">
 </div>
 
 Read it top to bottom, like a shopping list. Feed **TV** and it quietly eats **Google**, ten points come off Google's contribution while TV takes the credit. Feed **Out of Home** or **Print** and Google rises without anyone noticing. Feed **Google** and Facebook climbs. And **Facebook** is the engine of the whole system: spend on it and both TV and Google lift, but Print and Out of Home fall. Orange lifts the other, green takes from it. The grey bars near zero matter too. They mark where there is no echo, so you do not invent one.
