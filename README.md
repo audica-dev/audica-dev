@@ -7,22 +7,18 @@
 
 ---
 
-Marketing mix models tell you what happened. Audica tells you what it means.
+A marketing mix model gives you one number per channel and a way to split the budget. That number is a mean, the center of a distribution, and statistics is clear about one thing: a mean without its spread is only half the answer.
 
-Tools like Google Meridian and Meta Robyn are rigorous at estimating the numbers: incremental outcome, contribution, ROI and marginal ROI, response and saturation curves, adstock, share of effect, and credible intervals. And then, by their own design, they hand the interpretation back to you. Robyn's own documentation puts it plainly: the model may report that a channel had an ROI of two, but "there won't be any further outputs that may explain why."
+When the model says a channel drove twenty percent, that same twenty percent can be consistent with anything from ten to forty, depending on how wide the distribution is. The tool reports the range as an interval and hands you the center. And when the spread is that wide, splitting the budget on the mean alone is closer to a coin toss than to a decision.
 
-Audica is the layer that reads the why.
+What you actually need is in the shape, not the center. The width tells you how far to trust the number. The points far from the mean, the tails, are not noise. They are the customers, the moments and the contexts where a channel behaves nothing like its average: quietly excellent for some, quietly failing for others.
 
-It takes the same quantities those models produce and turns them into a reading of your audience:
+<div align="center">
+<img src="assets/audica-distribution.png" alt="A model gives you the mean. The tails are where the audience lives." width="620">
+</div>
 
-**Intrinsic channel effectiveness.** How good a channel is, independent of how much you spent on it. Where Meridian's effectiveness and Robyn's share of effect are conditioned on spend, Audica separates the quality of a channel from its budget.
+Audica reads the shape. It turns the distributions your model already produces into a reading of your audience: how far to trust each number, which channels behave the same for everyone and which hide very different people, and where the budget should truly go.
 
-**Audience homogeneity.** How uniformly an audience responds, so you know when a single number is hiding very different people.
+Marketing mix models tell you what happened, on average. Audica tells you what it means, and for whom.
 
-**Uncertainty as signal, not error bars.** Meridian reports a credible interval and Robyn a bootstrapped confidence interval, and both treat the spread as statistical error. Audica reads the width and the long tails of that same distribution as information: which channels behave consistently, and which ones hide the exceptions that decide the budget.
-
-The output is not one more dashboard number. It is the reading a strategist would give: who this audience is, how it behaves, and where you can actually place the money.
-
-Audica does not replace Meridian or Robyn. It sits on top of them, or of your own model, as the interpretation layer they leave to the analyst. The method is grounded in peer reviewed research.
-
-Open source, Apache 2.0. Built by Javier Marín.
+Open source, Apache 2.0. Grounded in peer reviewed research. Built by Javier Marín.
