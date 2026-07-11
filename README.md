@@ -8,7 +8,7 @@ Audica reads your brand, not just your budget. The step from Marketing Mix Model
 A MMM reports one figure per channel. Reality is not one figure. It is a pile of sand, poured cent by cent, lumpy, with grains thrown wide. The number is the top of the pile. Practical. Not the whole truth.
 
 <div align="center">
-<img src="assets/audica-sand.png" alt="The model draws a smooth curve; reality is a lumpy pile of sand" width="440">
+<img src="assets/audica-sand.gif" alt="The model draws a smooth curve; reality is a lumpy pile of sand" width="440">
 </div>
 
 Your clients live in the shape of this pile, not the peak.
