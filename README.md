@@ -1,5 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=0d4d4e&text=audica&fontAlignY=39&fontColor=ee751b&fontSize=120&&fontFamily=CenturyGothic&textBg=false&descAlignY=50&reversal=false&stroke=0d4d4e&strokeWidth=1)
 
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=30&pause=1000&color=EE751B&center=true&width=740&height=80&lines=THE+MOMENT+AN+AD+BECOMES+YOUR+BRAND)](https://git.io/typing-svg)
+
+</div>
 
 Audica reads your brand, not just your budget. The step from Marketing Mix Modelling to Brand Mix Modelling.
 
