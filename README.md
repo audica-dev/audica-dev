@@ -26,7 +26,7 @@ Let's see an example. One advertiser, five channels, real money. An example of w
 ### What a MMM gives you.
 
 <div align="center">
-<img src="assets/audica-contribution.png" alt="Channel contribution and ROAS" width="440">
+<img src="assets/audica-contribution.png" alt="Channel contribution and ROAS" width="340">
 </div>
 
 Size and return, channel by channel. And eighty three percent it files under baseline and forgets. That eighty three percent is **your brand**, your most important asset.
